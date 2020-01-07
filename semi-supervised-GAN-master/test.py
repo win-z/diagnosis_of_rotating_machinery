@@ -25,4 +25,5 @@ for i in range(10):
         print 'b>a'
         a = b[i]
 print 'the max num of b is {}'.format(a)
+#修改
 
